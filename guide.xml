@@ -1,16 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  
   <channel id="erox.hr">
     <display-name lang="hr">(ADULT) EROX HD</display-name>
-    
-  </channel>
+    </channel>
+	
   <channel id="eroxxx.hr">
-    <display-name lang="hr">(ADULT) eroxxx HD</display-name>
-    
-  </channel>
+    <display-name lang="hr">(ADULT) EROXXX HD</display-name>
+    </channel>
+	
   <channel id="brazzerstveurope.ro">
     <display-name lang="ro">(ADULT) BRAZZERS Europe</display-name>
   </channel>
+  
   <programme start="20201115004000 +0100" stop="20201115015000 +0100" channel="erox.hr">
     <title lang="hr">Lesbian Heaven</title>
     <desc lang="hr">- tv program" /&gt;Adult Channel&lt;/a&gt;. - tv program" /&gt;Blue Hustler&lt;/a&gt;. - tv program" /&gt;Brazzers TV&lt;/a&gt;. - tv program" /&gt;Daring! TV&lt;/a&gt;. - tv program" /&gt;Dorcel TV&lt;/a&gt;. - tv program" /&gt;Hustler&lt;/a&gt;</desc>
@@ -907,6 +909,7 @@
     <title lang="hr">Secret Diary of A Secretary 2</title>
     <desc lang="hr">- tv program" /&gt;Adult Channel&lt;/a&gt;. - tv program" /&gt;Blue Hustler&lt;/a&gt;. - tv program" /&gt;Brazzers TV&lt;/a&gt;. - tv program" /&gt;Daring! TV&lt;/a&gt;. - tv program" /&gt;Dorcel TV&lt;/a&gt;. - tv program" /&gt;Hustler&lt;/a&gt;</desc>
   </programme>
+  
   <programme start="20201116001000 +0200" stop="20201116003500 +0200" channel="brazzerstveurope.ro">
     <title lang="ro">Hot Teen Gets Recycled</title>
   </programme>
