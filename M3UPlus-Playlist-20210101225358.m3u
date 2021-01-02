@@ -1,0 +1,91 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24//7 BOX" tvg-logo="" group-title="Irani",24//7 BOX
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4U TV" tvg-logo="" group-title="Irani",4U TV
+http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVA FAMILY" tvg-logo="" group-title="Irani",AVA FAMILY
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVA SERIES" tvg-logo="" group-title="Irani",AVA SERIES
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVANG" tvg-logo="" group-title="Irani",AVANG
+https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/rqpfvgm6/4128/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC PERSIAN" tvg-logo="" group-title="Irani",BBC PERSIAN
+https://nrpus.bozztv.com/36bay2/gin/giniko_bbcpersian_800kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBC 1" tvg-logo="" group-title="Irani",EBC 1
+http://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM DRAMA" tvg-logo="" group-title="Irani",GEM DRAMA
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM MIFA" tvg-logo="" group-title="Irani",GEM MIFA
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM ONYX" tvg-logo="" group-title="Irani",GEM ONYX
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM RIVER" tvg-logo="" group-title="Irani",GEM RIVER
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM RUBIX" tvg-logo="" group-title="Irani",GEM RUBIX
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM SERIES PLUS" tvg-logo="" group-title="Irani",GEM SERIES PLUS
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM TV PLUS" tvg-logo="" group-title="Irani",GEM TV PLUS
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ICC TV" tvg-logo="" group-title="Irani",ICC TV
+http://185.165.243.25/icctv.m3u8?user=460355&token=ca8fca657f597a44da0628066dc65f6b&e=1607903733&&bands=3196&os=browser&sid=coder_81771
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilm" tvg-logo="" group-title="Irani",Ifilm
+https://live.asset.televika.com/a1832e43882c9298bc7a3d3caac213fd/tvhls/ifilm_s1_1080p/index.m3u8?s=eWl9e0J6ICa58FkWavZ5_w&e=1609572665&ip=61.245.159.44
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRAN INTERNATIONAL" tvg-logo="" group-title="Irani",IRAN INTERNATIONAL
+https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRIB 4K" tvg-logo="" group-title="Irani",IRIB 4K
+http://159.69.58.154/irib4k/irib4k.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAAH TV" tvg-logo="" group-title="Irani",MAAH TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANOTO HD" tvg-logo="http://107.152.105.108:81/Logo/ASIAIRAN/MANOTO.png" group-title="Irani",MANOTO HD
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANOTO PLUS 1" tvg-logo="" group-title="Irani",MANOTO PLUS 1
+http://95.216.13.143/manoto_plus/manoto_plus.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANOTO PLUS 2" tvg-logo="" group-title="Irani",MANOTO PLUS 2
+http://159.69.58.154/manoto_plus2/manoto2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC PERSIA" tvg-logo="" group-title="Irani",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MITV" tvg-logo="" group-title="Irani",MITV
+http://185.165.243.25/mitv001.m3u8?user=460355&token=2a97a76e7b5424303007210d757792ca&e=1607979375&&bands=3196&os=browser&sid=coder_81770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC 1" tvg-logo="" group-title="Irani",MUSIC 1
+http://159.69.58.154/music1/music1_tv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OXIR" tvg-logo="" group-title="Irani",OXIR
+http://51.210.199.36/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA BILLBOARD" tvg-logo="" group-title="Irani",PERSIANA BILLBOARD
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA CINEMA" tvg-logo="" group-title="Irani",PERSIANA CINEMA
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA COMEDY" tvg-logo="" group-title="Irani",PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA FAMILY" tvg-logo="" group-title="Irani",PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA FAMILY PLUS" tvg-logo="" group-title="Irani",PERSIANA FAMILY PLUS
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA IRANIAN" tvg-logo="" group-title="Irani",PERSIANA IRANIAN
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA MUSIC" tvg-logo="" group-title="Irani",PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PERSIANA NOSTALGIA" tvg-logo="" group-title="Irani",PERSIANA NOSTALGIA
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="" group-title="Irani",PMC
+http://51.15.139.108/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNTV" tvg-logo="" group-title="Irani",PNTV
+http://51.210.199.48/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SLTV 1" tvg-logo="" group-title="Irani",SLTV 1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SLTV 2" tvg-logo="" group-title="Irani",SLTV 2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T2" tvg-logo="" group-title="Irani",T2
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAMASHA" tvg-logo="" group-title="Irani",TAMASHA
+http://185.165.243.25/tamashahd001.m3u8?bandwidth=3196&e=1607903733&playlistlength=25&shift=0&token=63228d46239a8c82a2821539aaa086f6&user=460355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAPESH TV" tvg-logo="" group-title="Irani",TAPESH TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="" group-title="Irani",TV3
+http://185.165.243.25/irib3hd002.m3u8?user=460355&token=c631fb210a8c6848345c53ed3d5cf654&e=1607980107&&bands=3196&os=browser&sid=coder_81770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOA PERSIAN" tvg-logo="" group-title="Irani",VOA PERSIAN
+https://voavvideo-i.akamaihd.net/hls/live/850899-b/VOAV_TVMC7_MRG/master_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOX 1" tvg-logo="" group-title="Irani",VOX 1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOX 2" tvg-logo="" group-title="Irani",VOX 2
+http://51.210.199.9/hls/stream.m3u8
