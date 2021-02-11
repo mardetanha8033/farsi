@@ -7,7 +7,7 @@
 <tvshowtitle>The Frog</tvshowtitle>
 <year>2020</year>
 </meta>
-<link>https://raw.githubusercontent.com/mardetanha8033/farsi/master/thefrogseasons</link>
+<link>https://raw.githubusercontent.com/mardetanha8033/farsi/master/thefrogseasons.xml</link>
 <thumbnail>https://artworks.thetvdb.com/banners/series/376051/posters/600e9570f1a22.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/series/376051/backgrounds/5fe650815188a.jpg</fanart>
 </dir>
@@ -66,4 +66,18 @@
 <link>https://raw.githubusercontent.com/mardetanha8033/farsi/master/shabhayebararehseasons.xml</link>
 <thumbnail>https://artworks.thetvdb.com/banners/posters/322208-1.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/fanart/original/322208-1.jpg</fanart>
+</dir>
+
+<dir>
+<title>Se Dar Chahar</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt6221046</imdb>
+<tvdb>354979</tvdb>
+<tvshowtitle>Se Dar Chahar</tvshowtitle>
+<year>2008</year>
+</meta>
+<link>https://raw.githubusercontent.com/mardetanha8033/farsi/master/sedarcharseason.xml</link>
+<thumbnail>https://artworks.thetvdb.com/banners/posters/5bdc9e71731a0.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/fanart/original/5bdca1d2c4483.jpg</fanart>
 </dir>
