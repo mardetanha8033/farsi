@@ -96,3 +96,17 @@
 <thumbnail>https://artworks.thetvdb.com/banners/posters/279892-2.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/fanart/original/279892-1_t.jpg</fanart>
 </dir>
+
+<dir>
+<title>Hamrefigh</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt13630552</imdb>
+<tvdb>396687</tvdb>
+<tvshowtitle>Hamrefigh</tvshowtitle>
+<year>2020</year>
+</meta>
+<link>https://raw.githubusercontent.com/mardetanha8033/farsi/master/hamrefighseasons.xml</link>
+<thumbnail>https://raw.githubusercontent.com/mardetanha8033/farsi/master/f70.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/mardetanha8033/farsi/master/Hamrefigh-Series.jpg</fanart>
+</dir>
