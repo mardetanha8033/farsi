@@ -1,0 +1,394 @@
+{
+  "Star": [
+    {
+      "name": "Tv3 FHD",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tv3.png",
+      "video": "http://212.102.60.40:2200/TR-N/IRIB_TV_3_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ifilm FHD",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilm.png",
+      "video": "http://212.102.60.40:2200/TR-N/iFilm_TV_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tamasha FHD",
+      "thumb": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/hdtest.png",
+      "video": "http://212.102.60.40:2200/TR-N/TAMASHA_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Manoto Plus 2 FHD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/manoto2.jpg",
+      "video": "http://212.102.60.40:2200/TR-N/Manoto_HD_Plus2-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Manoto Plus 1 FHD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/manoto1.jpg",
+      "video": "http://212.102.60.40:2200/TR-N/Manoto_plus_1_HD/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "PMC FHD",
+      "thumb": "https://www.pmc.tv/assets/upload/pmc.png",
+      "video": "http://212.102.60.40:2200/TR-N/PMC_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Cine Film FHD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/cinef.png",
+      "video": "http://212.102.60.40:2200/TR-N/Cine_Film_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ava Family FHD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/avaf.png",
+      "video": "http://212.102.60.40:2200/TR-N/AVA_Family_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Cine Series HD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/cines.png",
+      "video": "http://212.102.60.40:2200/TR/cineserieshd-fa/tracks-v1a1/index.m3u8?token=RED_O-Ul_jz2hErnTQs8zQ6-Ow==,1619690942.9147349223",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Cine Series FHD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/cines.png",
+      "video": "http://212.102.60.40:2200/TR-N/Cine_Series_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ifilm",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilm.png",
+      "video": "https://sdm.telewebion.com/live/ifilm/playlist_dvr.m3u8?wmsAuthSign=76654f7a5010b37da8b6fc327f0f2482&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NDkgQU0maGFzaF92YWx1ZT1mMVJ0NU1lV1IrdGI3ZEkyVHpWM1d3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Namayesh",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/namayesh.png",
+      "video": "https://sdm.telewebion.com/live/namayesh/playlist_dvr.m3u8?wmsAuthSign=9beccc94a26662a572d2ce1af2b204d9&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTAgQU0maGFzaF92YWx1ZT1JK2F2aE9TNjlkTVJSQ3kzKzh2YWVBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Mostanad",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/mostanad.png",
+      "video": "https://sdm.telewebion.com/live/mostanad/playlist_dvr.m3u8?wmsAuthSign=c92078e0c28b01106d8e9cfba7cb9b1c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTIgQU0maGFzaF92YWx1ZT1PUGJ4R1hDR2hrWjBuRHlXSmlqQUtBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Amouzesh",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/amouzesh.png",
+      "video": "https://sdm.telewebion.com/live/amouzesh/playlist_dvr.m3u8?wmsAuthSign=7c72a858024c80b54c7d7d56ec05c28a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTMgQU0maGFzaF92YWx1ZT1YL1Y3bDgvK1NvWndxNC82WldtNGx3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Quran",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/quran.png",
+      "video": "https://sdm.telewebion.com/live/quran/playlist_dvr.m3u8?wmsAuthSign=e225c00e54ba0f07943c36e6558e1ff1&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTUgQU0maGFzaF92YWx1ZT1mdk0yRGt4b1JRei94SXlmZ3V4NXJRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Salamat",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/salamat.png",
+      "video": "https://sdm.telewebion.com/live/salamat/playlist_dvr.m3u8?wmsAuthSign=9495b7476dba8a2da2ac5e10e473057f&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTYgQU0maGFzaF92YWx1ZT1hczNXZXdWMkNNVFluMVo1SElYbjl3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Jjtv1",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/jjtv1.png",
+      "video": "https://sdm.telewebion.com/live/jjtv1/playlist_dvr.m3u8?wmsAuthSign=28ef5c9ad595da4df449589df66fc364&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTcgQU0maGFzaF92YWx1ZT00M1ozRmxsK0RWQS9EUmRpa0ExUXpnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Omid",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/omid.png",
+      "video": "https://sdm.telewebion.com/live/omid/playlist_dvr.m3u8?wmsAuthSign=3651b0ef21a4d14334eff658b2b804a8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1OjY6NTkgQU0maGFzaF92YWx1ZT1rZ1BPMGt0b2V6aThuNEV0bzlqODB3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ofogh",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ofogh.png",
+      "video": "https://sdm.telewebion.com/live/ofogh/playlist_dvr.m3u8?wmsAuthSign=1dde0a447a998dc7a61f8e06c76f6746&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MCBBTSZoYXNoX3ZhbHVlPTQrd3RtTUxreW14N045dFJEVHphVmc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Shoma",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/shoma.png",
+      "video": "https://sdw.telewebion.com/live/shoma/playlist_dvr.m3u8?wmsAuthSign=c8f52c856fb5f5b23f643bc9bc3744fe&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MiBBTSZoYXNoX3ZhbHVlPWxqYjEwcXVVVitldVNkVzFXaVMyN0E9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Jam",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/jam.png",
+      "video": "https://sdm.telewebion.com/live/jam/playlist_dvr.m3u8?wmsAuthSign=0cb6ba298241b4c715896158c9158166&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MyBBTSZoYXNoX3ZhbHVlPStpMlVKUDROUnV0NTBnS3hCeG9JakE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Nama",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/nama.png",
+      "video": "https://sdm.telewebion.com/live/nama/playlist_dvr.m3u8?wmsAuthSign=8a94999ee55fcde2c19ba5059472d685&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NCBBTSZoYXNoX3ZhbHVlPStmZG9jMzJKcnF3RDF2d3FKQnhQMVE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Javaneh",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/javaneh.png",
+      "video": "https://sdw.telewebion.com/live/javaneh/playlist_dvr.m3u8?wmsAuthSign=3d5ebdaaec74610806489b5bd7322cfa&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NiBBTSZoYXNoX3ZhbHVlPVB0dzAyWjN2by81bGpyVlkrWFZBZkE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Shiran",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/shiran.png",
+      "video": "https://sdm.telewebion.com/live/shiran/playlist_dvr.m3u8?wmsAuthSign=168967f2f2506f0951419d9200f2a0c4&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NyBBTSZoYXNoX3ZhbHVlPUJtL1NLR1BRVWM1ZGZaVTVldjk1dkE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Dena",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/dena.png",
+      "video": "https://sdm.telewebion.com/live/dena/playlist_dvr.m3u8?wmsAuthSign=d07d289053604ae58de317cbfb8d1227&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6OCBBTSZoYXNoX3ZhbHVlPXcxbUhkU0tlTnhyNkVyT2gzMmJpaFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Nava",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/nava.png",
+      "video": "https://sdm.telewebion.com/live/nava/playlist_dvr.m3u8?wmsAuthSign=b08c744b75d34ad46327fe865020ea3f&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTAgQU0maGFzaF92YWx1ZT1QR0pEVkp4Yko5SUJKZW41NWoxeXN3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Esfahan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/esfahan.png",
+      "video": "https://sdm.telewebion.com/live/esfahan/playlist_dvr.m3u8?wmsAuthSign=84b3c997e6d64205303290a19bb00193&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTEgQU0maGFzaF92YWx1ZT1wRFFwdjBRdEs2TXdoWE1VcDR2eTdBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Alborz",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/alborz.png",
+      "video": "https://sdm.telewebion.com/live/alborz/playlist_dvr.m3u8?wmsAuthSign=a3e1225d3e08b52f2a8a8f7ff5ac9218&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTMgQU0maGFzaF92YWx1ZT0waG1tQ09aYkJLR2NSbUR0WjF5VWZ3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ilam",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ilam.png",
+      "video": "https://sdm.telewebion.com/live/ilam/playlist_dvr.m3u8?wmsAuthSign=efa2c900bbf5196445b2cfa98b7bae49&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTQgQU0maGFzaF92YWx1ZT1CN3BkOUlNNTJRaEk1MG1qSUxXV3RnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Azarbayjangharbi",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png",
+      "video": "https://sdm.telewebion.com/live/azarbayjangharbi/playlist_dvr.m3u8?wmsAuthSign=c08128555b4f0497d0719fa22c993d7d&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTUgQU0maGFzaF92YWx1ZT1SbmFpM3gxZjhGc1lLMUtEcjZTQzRBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Jahanbin",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/jahanbin.png",
+      "video": "https://sdm.telewebion.com/live/jahanbin/playlist_dvr.m3u8?wmsAuthSign=bdbea7f201c7717f5e87760828c937c0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTcgQU0maGFzaF92YWx1ZT0wYTE4NFNMOG9sc3hjS0hSR2c5RFhnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Bushehr",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/bushehr.png",
+      "video": "https://sdm.telewebion.com/live/bushehr/playlist_dvr.m3u8?wmsAuthSign=11923fa4ea8303a17142a44baef579ca&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTggQU0maGFzaF92YWx1ZT1WSUpVKzN1bWdLSnFRYUxOWlNZbkhBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Zagros",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/zagros.png",
+      "video": "https://sdw.telewebion.com/live/zagros/playlist_dvr.m3u8?wmsAuthSign=bd585d21e001ab7e3eff034971486598&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MTkgQU0maGFzaF92YWx1ZT0wN2ROR0FvQk5JVmlaeWlNazNlRGhRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Eshragh",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/eshragh.png",
+      "video": "https://sdm.telewebion.com/live/eshragh/playlist_dvr.m3u8?wmsAuthSign=7651d4f9de9126b5a006fdaa59d77863&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjEgQU0maGFzaF92YWx1ZT1lTkZvR201SHRiK1h5OG1RaDRzZTRBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Khavaran",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/khavaran.png",
+      "video": "https://sdm.telewebion.com/live/khavaran/playlist_dvr.m3u8?wmsAuthSign=3aae88381b6c79c64e3073bc8f7db05a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjIgQU0maGFzaF92YWx1ZT1IcGNLbXBIQXdTR0E3L0lYeFk1Y2tBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Sabz",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/sabz.png",
+      "video": "https://sdm.telewebion.com/live/sabz/playlist_dvr.m3u8?wmsAuthSign=22b3b09f5d741a8e8d5108243a68d2b8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjQgQU0maGFzaF92YWx1ZT1ZbXdKZE11VHEzU1AzYk1ENE1nTzJ3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tabarestan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tabarestan.png",
+      "video": "https://sdw.telewebion.com/live/tabarestan/playlist_dvr.m3u8?wmsAuthSign=2d281b57b7c957294c57e3ba0bf47f58&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjUgQU0maGFzaF92YWx1ZT1VSnlWR01vdzR1djAzYlpGalFqVTZRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Sina",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/sina.png",
+      "video": "https://sdm.telewebion.com/live/sina/playlist_dvr.m3u8?wmsAuthSign=9be75342b35e99c6b1070a94966ed7de&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjYgQU0maGFzaF92YWx1ZT1tT0NmNkduZWZDcUtROFhEWW1iVjNnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Qazvin",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/qazvin.png",
+      "video": "https://sdm.telewebion.com/live/qazvin/playlist_dvr.m3u8?wmsAuthSign=141aeec6c14c874d7b5653dfd2a77c60&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjggQU0maGFzaF92YWx1ZT1oLzRNQWdMODUvc09qNWluTGY3STJRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Hamoon",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/hamoon.png",
+      "video": "https://sdm.telewebion.com/live/hamoon/playlist_dvr.m3u8?wmsAuthSign=857cf3693550751173631cd110538207&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MjkgQU0maGFzaF92YWx1ZT0wbG5OTjdWM213Snp5ZDJXWGUxemhRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Atrak",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/atrak.png",
+      "video": "https://sdm.telewebion.com/live/atrak/playlist_dvr.m3u8?wmsAuthSign=500198b1da43260ecfeee14ba92d9835&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzAgQU0maGFzaF92YWx1ZT1NZ1BFdUNGUUlTY2tPV1hNRThOaE9RPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Kerman",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/kerman.png",
+      "video": "https://sdm.telewebion.com/live/kerman/playlist_dvr.m3u8?wmsAuthSign=c75431346f8e57efd028a8dbb4f2f7e7&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzIgQU0maGFzaF92YWx1ZT14TktwTlNXQmpuNEk1c2s3NnYxZVJBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Taban",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/taban.png",
+      "video": "https://sdm.telewebion.com/live/taban/playlist_dvr.m3u8?wmsAuthSign=6993dab7cb987b093cea8df68d37a8fa&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzMgQU0maGFzaF92YWx1ZT0wRUwwejZGNlZrdVdKOUc4UHJUZi9nPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Kish",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/kish.png",
+      "video": "https://sdw.telewebion.com/live/kish/playlist_dvr.m3u8?wmsAuthSign=bca613c87bec39bb9b801ee3494bc2b6&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzUgQU0maGFzaF92YWx1ZT13OTd4Q1V2QVZwRlE0MGJyS1NBRUhBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Noor",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/noor.png",
+      "video": "https://sdm.telewebion.com/live/noor/playlist_dvr.m3u8?wmsAuthSign=296404fb9957be1ac05a22aed938e8aa&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzYgQU0maGFzaF92YWx1ZT1aNTZtREJLM0UrN0lIREhTekt1NnZBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Sabalan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/sabalan.png",
+      "video": "https://sdm.telewebion.com/live/sabalan/playlist_dvr.m3u8?wmsAuthSign=fa886e730a1e58db2ff27c8b29749946&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzcgQU0maGFzaF92YWx1ZT12a01mbXRUUkZEd3gvYkxSOVNjclF3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Abadan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/abadan.png",
+      "video": "https://sdm.telewebion.com/live/abadan/playlist_dvr.m3u8?wmsAuthSign=f8eaf3f52d5eef7008b2c5a316df18c7&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6MzkgQU0maGFzaF92YWx1ZT1oV1pHUmRWTndSK3Y1UTNTa3lVWDdRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Mahabad",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/mahabad.png",
+      "video": "https://sdm.telewebion.com/live/mahabad/playlist_dvr.m3u8?wmsAuthSign=e557bf002fe4503968719d9b98efdcbc&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDAgQU0maGFzaF92YWx1ZT1HNFJXUVBhaFJjR0NRMWlNbnRqWVhBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Irankala",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/irankala.png",
+      "video": "https://sdm.telewebion.com/live/irankala/playlist_dvr.m3u8?wmsAuthSign=27ea1ec97c3c26dfaced17baba153cd5&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDEgQU0maGFzaF92YWx1ZT1ubVRaNVh0ejBHc1lPOXRJWVIvQTBnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Sahand",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/sahand.png",
+      "video": "https://sdw.telewebion.com/live/sahand/playlist_dvr.m3u8?wmsAuthSign=c5410af43bc211fe043dc27a750d4aff&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDMgQU0maGFzaF92YWx1ZT0vaXAwL0VvZ0s2aERJbXBpcTRMVVN3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Fars",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/fars.png",
+      "video": "https://sdm.telewebion.com/live/fars/playlist_dvr.m3u8?wmsAuthSign=8b4a2d64b3843ba3fbbb7a90e4ff949c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDQgQU0maGFzaF92YWx1ZT1yWXZkSlBFNmxWVTNpWGdreDhHV0hRPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Khoozestan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/khoozestan.png",
+      "video": "https://sdm.telewebion.com/live/khoozestan/playlist_dvr.m3u8?wmsAuthSign=d9c0b78ec6b9e905ebf9ada9f30d84e2&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDUgQU0maGFzaF92YWx1ZT1MaGNQcDVTOUV3YjhFUEFnQ0lTN2xnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Khorasanrazavi",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/khorasanrazavi.png",
+      "video": "https://sdm.telewebion.com/live/khorasanrazavi/playlist_dvr.m3u8?wmsAuthSign=651c1c03709f6c49725b11d5896f40d2&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDcgQU0maGFzaF92YWx1ZT1DY3RKN1hTbzZrZEE0N2RxTFAvVVBnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Kordestan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/kordestan.png",
+      "video": "https://sdm.telewebion.com/live/kordestan/playlist_dvr.m3u8?wmsAuthSign=4ca95bdbc5cd81168cb329bc78f1322f&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NDkgQU0maGFzaF92YWx1ZT1uRjVLdG51Z1VDc2VHYnNuQkRpYXZnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Baran",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/baran.png",
+      "video": "https://sdw.telewebion.com/live/baran/playlist_dvr.m3u8?wmsAuthSign=7174888d6ab0b15ddf1d9197768d5521&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTAgQU0maGFzaF92YWx1ZT0yTm1la1VBS0QyZEJZenloUmNuQ1d3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Semnan",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/semnan.png",
+      "video": "https://sdm.telewebion.com/live/semnan/playlist_dvr.m3u8?wmsAuthSign=5527cac241fff92dee9ae06c38dc5b6d&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTIgQU0maGFzaF92YWx1ZT1YRERsM2huZ3VFQlJnM1BrUEJEbVdnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Aftab",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/aftab.png",
+      "video": "https://sdw.telewebion.com/live/aftab/playlist_dvr.m3u8?wmsAuthSign=aa8772676f724aaf0a00f00a36c47e21&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTMgQU0maGFzaF92YWx1ZT1tQWdVVUtNeVAwVHQ0Q0luV0tTVXR3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Khalijefars",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/khalijefars.png",
+      "video": "https://sdm.telewebion.com/live/khalijefars/playlist_dvr.m3u8?wmsAuthSign=dc9ee426c6e8668e9f66b6c50a4d7def&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTUgQU0maGFzaF92YWx1ZT1PdTdXODMydVUyWHgvN0tOZUJyQ3pBPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Aflak",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/aflak.png",
+      "video": "https://sdm.telewebion.com/live/aflak/playlist_dvr.m3u8?wmsAuthSign=999fec6c30520efeb6142c8da4f7cb79&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTYgQU0maGFzaF92YWx1ZT0vQ2RKOVk3b2xvRTMzekhsaXBMOEd3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Sepehr",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/sepehr.png",
+      "video": "https://sdm.telewebion.com/live/sepehr/playlist_dvr.m3u8?wmsAuthSign=612cbf04eff3d984e65a29fa283c35d1&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTcgQU0maGFzaF92YWx1ZT1ORDRNQkdVU3ozQzFaemhLbW4vK2V3PT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Ifilmar",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilmAr.png",
+      "video": "https://sdm.telewebion.com/live/ifilmAr/playlist_dvr.m3u8?wmsAuthSign=f6f2c57376a280cc937a66a938d69add&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojc6NTkgQU0maGFzaF92YWx1ZT1tWFVjYWlIc29yWVRwWmN3SThxNkRnPT0mdmFsaWRtaW51dGVzPTYwMDA=",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tekye1",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tekye1.png",
+      "video": "https://sdm.telewebion.com/live/tekye1/playlist_dvr.m3u8?wmsAuthSign=91077f16b090110b434c1e4a5bb0f81c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojg6MCBBTSZoYXNoX3ZhbHVlPWowZHFQYUVpeUNnbE00TDgrdFk5RFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tekye2",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tekye2.png",
+      "video": "https://sdw.telewebion.com/live/tekye2/playlist_dvr.m3u8?wmsAuthSign=e0ef85de05c60eedd1bd9440e647b0ab&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojg6MSBBTSZoYXNoX3ZhbHVlPXZ2S01hQXQyQ2tpQWFEdUo3WXFOM1E9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tekye3",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tekye3.png",
+      "video": "https://sdm.telewebion.com/live/tekye3/playlist_dvr.m3u8?wmsAuthSign=abd0e8a282a80b0c2c0e0f51033331c8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojg6MyBBTSZoYXNoX3ZhbHVlPXpGZVRFUE00YVNsemhaQkZwV0JNVkE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Tekye4",
+      "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/tekye4.png",
+      "video": "https://sdm.telewebion.com/live/tekye4/playlist_dvr.m3u8?wmsAuthSign=fc17b1bb81298fae530f5b0e76036ae8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMTcvMjAyMSA1Ojg6NCBBTSZoYXNoX3ZhbHVlPWZrZFk4Ty9ERnVmNEVXRXpCeUpJSEE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==",
+      "genre": "Live Tv"
+    }
+  ]
+}
