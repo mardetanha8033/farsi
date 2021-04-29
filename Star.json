@@ -131,6 +131,23 @@
       "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/VOA.png",
       "video": "http://212.102.60.40:2200/TR-N/VoA_TV_Persian_HD-fa/tracks-v1a1/index.m3u8?token=RED_Xn8DM7vhH4kTUaKDG4ktWg==,1619697272.8492079760",
       "genre": "Live Tv"
+    },
+    {
+      "name": "Optus Sport 1 HD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/OptusSport.png",
+      "video": "http://212.102.60.40:2200/EX/Optus_Sports_1_HD_-uk/tracks-v1a1/index.m3u8?token=null",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Optus Sport 2 HD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/OptusSport.png",
+      "video": "http://212.102.60.40:2200/EX/Optus_Sports_2_HD_-uk/tracks-v1a1/index.m3u8?token=null",
+      "genre": "Live Tv"
+    },
+    {
+      "name": "Optus Sport 3 HD",
+      "thumb": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/OptusSport.png",
+      "video": "http://212.102.60.40:2200/EX/Optus_Sports_3_HD_-uk/tracks-v1a1/index.m3u8?token=null",
+      "genre": "Live Tv"
     }
   ]
-}
