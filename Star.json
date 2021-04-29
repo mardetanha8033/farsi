@@ -7,6 +7,12 @@
       "genre": "Live Tv"
     },
     {
+      "name": "Manoto FHD",
+      "thumb": "https://raw.githubusercontent.com/bbk79/xbmc-addons/master/plugin.video.manoto/resources/fhd.png",
+      "video": "https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8",
+      "genre": "Live Tv"
+    },
+    {
       "name": "Ifilm FHD",
       "thumb": "https://static.televebion.net/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilm.png",
       "video": "http://212.102.60.40:2200/TR-N/iFilm_TV_HD-fa/tracks-v1a1/index.m3u8?token=RED_srAOFBymStr5qesq42skow==,1619686696.3731092451",
