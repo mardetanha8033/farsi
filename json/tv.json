@@ -4,9 +4,9 @@
     "list": [
       {
         "poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
-        "fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_85441_148.jpg, https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+        "fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
         "name": "Jazireh",
-        "url": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+        "url": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Jazireh.json"
       },
       {
         "poster": "https://static.cdn.asset.filimo.com/flmt/mov_97965_16047-m.jpg",
