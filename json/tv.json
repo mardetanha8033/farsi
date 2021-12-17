@@ -1,1 +1,55 @@
-
+{
+  "id": 0,
+  "details": {
+    "list": [
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      },
+      {
+        "poster": "بسپارش به ما",
+        "fanart": "بسپارش به ما",
+        "name": "FACTUAL / Homes & Gardens;FACTUAL / Consumer",
+        "description": "https://dwphh95xlnw84.cloudfront.net/images/shows/portrait/1201.jpeg"
+      }
+    ],
+    "pageNumber": 1,
+    "pageSize": 35,
+    "sortBy": "latest",
+    "resultsCount": 556
+  },
+  "status": "1",
+  "errors": []
+}
