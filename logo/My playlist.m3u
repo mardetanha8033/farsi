@@ -116,7 +116,7 @@ http://cds.c7a2t5h4.hwcdn.net/app/85300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 2" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="IRIB Channels",TV 2
 https://sdw.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8?uid=1603992-1636863021.545-45.76.122.114-223?wmsAuthSign=396eae0bae98961bee52cfad5ad21411&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzE0LzIwMjEgNDoyOjM4IEFNJmhhc2hfdmFsdWU9VEwwdHptd3oxMnhlR0dHR3VvWG1KUT09JnZhbGlkbWludXRlcz02MDAw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 3" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="IRIB Channels",TV 3
-https://sdw.telewebion.com/live/tv3/playlist_dvr.m3u8?wmsAuthSign=3a5022f3f263f28da34957d595a48712&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTExLzI3LzIwMjEgNjoyNTozMCBBTSZoYXNoX3ZhbHVlPVgvMjFIL285T0d6aVhvWXNPY2NMd0E9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+https://sdw.telewebion.com/live/tv3/playlist_dvr.m3u8?wmsAuthSign=1f1524857feffd377c6db491d781bd68&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzE4LzIwMjEgODoxNjoyMCBBTSZoYXNoX3ZhbHVlPSt6MWlONFMxcDk1bGx3QlV3OU5RYkE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 3 Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="IRIB Channels",TV 3 Jadoo
 http://cds.c7a2t5h4.hwcdn.net/app/10035.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 4" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv4.png" group-title="IRIB Channels",TV 4
