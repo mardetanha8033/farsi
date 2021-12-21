@@ -1,0 +1,3 @@
+RobotoCondensed-Regular fonts is for list menu title
+Bold-new font is for showcase title
+Roboto-Regular-LineSpacingMod font is for video playback description
