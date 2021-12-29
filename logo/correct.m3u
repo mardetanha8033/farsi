@@ -1,0 +1,229 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24B" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/24B.png" group-title="Golchin",24B
+http://cds.y7c2y5s4.hwcdn.net/app/24b.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4U" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png" group-title="Golchin",4U
+http://cds.y7c2y5s4.hwcdn.net/app/4u/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Afghan International" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/afg%20intel.png" group-title="Golchin",Afghan International
+http://cds.c7a2t5h4.hwcdn.net/app/afghanint/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ava Family" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/avaf.png" group-title="Golchin",Ava Family
+http://cds.y7c2y5s4.hwcdn.net/app/AvafamilyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ava Series" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/ava%20series.png" group-title="Golchin",Ava Series
+http://cds.c7a2t5h4.hwcdn.net/app/avaseries/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avang TV" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/avang%20logo.png" group-title="Golchin",Avang TV
+http://appavang.flashmediacast.com:1935/Appavang/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Persian" tvg-logo="https://ewsat.com/img/BBC_PERSIAN.png" group-title="Golchin",BBC Persian
+http://cds.c7a2t5h4.hwcdn.net/app/bbcpersian.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Film" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/cine%20Film.png" group-title="Golchin",Cine Film
+http://cds.y7c2y5s4.hwcdn.net/app/cinefilmfarsi/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Series" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/cine%20series.png" group-title="Golchin",Cine Series
+http://cds.y7c2y5s4.hwcdn.net/app/cineseries/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Golchin",FX
+http://cds.y7c2y5s4.hwcdn.net/app/fx/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem ONYX Jadoo" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/gem%20onyx.png" group-title="Golchin",Gem ONYX Jadoo
+http://cds.y7c2y5s4.hwcdn.net/app/843701.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem River FHD" tvg-logo="" group-title="Golchin",Gem River FHD
+http://195.201.194.37/test-hls/riverhdplus001.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem Rubix FHD" tvg-logo="" group-title="Golchin",Gem Rubix FHD
+http://195.201.194.37/test-hls/rubixhdplus001.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem Series FHD" tvg-logo="" group-title="Golchin",Gem Series FHD
+http://195.201.194.37/test-hls/serieshdplus001.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iran International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdUWraaX1lg1v_ONqYiGGG1Gt7Q5e_jaNYQ&usqp=CAU" group-title="Golchin",Iran International
+https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Golchin",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoto Plus 1" tvg-logo="" group-title="Golchin",Manoto Plus 1
+http://cds.c7a2t5h4.hwcdn.net/app/manotoplus1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoto Plus 2" tvg-logo="" group-title="Golchin",Manoto Plus 2
+http://cds.c7a2t5h4.hwcdn.net/app/Manoto2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="" group-title="Golchin",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mifa FHD" tvg-logo="" group-title="Golchin",Mifa FHD
+http://195.201.194.37/test-hls/mifa.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mifa Plus" tvg-logo="" group-title="Golchin",Mifa Plus
+http://cds.y7c2y5s4.hwcdn.net/app/mifaplus/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mono TV" tvg-logo="" group-title="Golchin",Mono TV
+http://cds.y7c2y5s4.hwcdn.net/app/24tvbox/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAVAHANG" tvg-logo="https://www.navahang.com/assets/img/navahang-logo-n.png" group-title="Golchin",NAVAHANG
+http://51.210.227.130/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONYX FHD" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/gem%20onyx.png" group-title="Golchin",ONYX FHD
+http://195.201.194.37/test-hls/onyxhd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Cinema" tvg-logo="https://persianagroup.tv/site/assets/img/logo-dark-bg.png" group-title="Golchin",Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Cinema" tvg-logo="" group-title="Golchin",Persiana Cinema
+http://cds.h3t2e8k9.hwcdn.net/hls/persiana2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Iranian" tvg-logo="https://persianagroup.tv/site/assets/img/logo-dark-bg.png" group-title="Golchin",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Iranian" tvg-logo="" group-title="Golchin",Persiana Iranian
+http://cds.h3t2e8k9.hwcdn.net/hls/persiana4/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Golchin",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Golchin",PMC Royale
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Kids" tvg-logo="" group-title="Golchin",Popcorn Kids
+http://cds.h3t2e8k9.hwcdn.net/prov/popcornkids/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Movies" tvg-logo="" group-title="Golchin",Popcorn Movies
+http://cds.h3t2e8k9.hwcdn.net/prov/popcornmovies/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Series" tvg-logo="" group-title="Golchin",Popcorn Series
+http://cds.h3t2e8k9.hwcdn.net/prov/popseries/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Javan" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/radiojavan.png" group-title="Golchin",Radio Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wayking TV" tvg-logo="" group-title="Golchin",Wayking TV
+http://cds.y7c2y5s4.hwcdn.net/app/waykingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv 1" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tv1.png" group-title="IRIB Channels",Tv 1
+https://sdw.telewebion.com/live/tv1/playlist_dvr.m3u8?wmsAuthSign=1d50ee59999e1c04fe7ac741197010f5&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjMgQU0maGFzaF92YWx1ZT1xRHJVQ1lwSWYySmNwdFpQVGdRL2hBPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv 2" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tv2.png" group-title="IRIB Channels",Tv 2
+https://sdw.telewebion.com/live/tv2/playlist_dvr.m3u8?wmsAuthSign=86ee35a7b756c0127bb5d5c23bcde2fa&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjUgQU0maGFzaF92YWx1ZT1ueEFiZkhzc0ZYSHg4bVNnbXJ2OGVRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv 3" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="IRIB Channels",Tv 3
+https://sdw.telewebion.com/live/tv3/playlist_dvr.m3u8?wmsAuthSign=588059093239eab262fa9accf15c5da4&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTI6NTg6MCBBTSZoYXNoX3ZhbHVlPUVGMFhqMXdvRlhJUDZhSUUyOWVFU3c9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv 4" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tv4.png" group-title="IRIB Channels",Tv 4
+https://sdw.telewebion.com/live/tv4/playlist_dvr.m3u8?wmsAuthSign=67e2c0d022817cbebd69bd9f53ae9a27&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjcgQU0maGFzaF92YWx1ZT1KbWdVVmV0S3FIaEdUTTQwekxpYUN3PT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tehran" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tehran.png" group-title="IRIB Channels",Tehran
+https://sdw.telewebion.com/live/tehran/playlist_dvr.m3u8?wmsAuthSign=2838fda37230a07dd6b4c4a9e0029566&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjkgQU0maGFzaF92YWx1ZT0wRzQ5QnlOcDRJNXV4Sy90c1U5VE93PT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Irinn" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/irinn.png" group-title="IRIB Channels",Irinn
+https://sdw.telewebion.com/live/irinn/playlist_dvr.m3u8?wmsAuthSign=d1465c9da9ddca2b2839a22ae60b7c1e&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjEwIEFNJmhhc2hfdmFsdWU9ZWc1cVhPdyt3bVh2eHFaclBVeVdBUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Varzesh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/varzesh.png" group-title="IRIB Channels",Varzesh
+https://sdw.telewebion.com/live/varzesh/playlist_dvr.m3u8?wmsAuthSign=50a227c1225dbcfebbbee0f50cf53397&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjExIEFNJmhhc2hfdmFsdWU9VHdZNTNTZkFJbnQybSt3aXpkZHBudz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamasha" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/hdtest.png" group-title="IRIB Channels",Tamasha
+https://sdw.telewebion.com/live/hdtest/playlist_dvr.m3u8?wmsAuthSign=44261ebddf44b2bf2bf0b996b6d04014&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjEyIEFNJmhhc2hfdmFsdWU9bnVwdG1VaDNjL3o2QTc5anM2T2lWdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasim" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/nasim.png" group-title="IRIB Channels",Nasim
+https://sdw.telewebion.com/live/nasim/playlist_dvr.m3u8?wmsAuthSign=1f091ea0f0ffb6b958112e659d27c965&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjE0IEFNJmhhc2hfdmFsdWU9TUZ0MmQ1MnQrR1dJd3c4Z2NTSFIrQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pooya" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/pooya.png" group-title="IRIB Channels",Pooya
+https://sdw.telewebion.com/live/pooya/playlist_dvr.m3u8?wmsAuthSign=11ccb3f771a83306264a2442c984cec2&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjE1IEFNJmhhc2hfdmFsdWU9OUp1ZlJ1OExtVEh4enRYS3BZWHhDUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilm" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilm.png" group-title="IRIB Channels",Ifilm
+https://sdw.telewebion.com/live/ifilm/playlist_dvr.m3u8?wmsAuthSign=9c299cd02be096d36f4989f569753c20&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjE3IEFNJmhhc2hfdmFsdWU9VG90THpHSHVKWVFTaVFHVXoySi9RUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Namayesh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/namayesh.png" group-title="IRIB Channels",Namayesh
+https://sdw.telewebion.com/live/namayesh/playlist_dvr.m3u8?wmsAuthSign=5b784f0b49ace3fb14a5f91efdf405da&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjE4IEFNJmhhc2hfdmFsdWU9WUV6SVBNTTRWUFdjcWxIM0FDNGNUQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mostanad" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/mostanad.png" group-title="IRIB Channels",Mostanad
+https://sdw.telewebion.com/live/mostanad/playlist_dvr.m3u8?wmsAuthSign=6d71c81bd38da2ae97052bf63efed2ce&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjE5IEFNJmhhc2hfdmFsdWU9VW9DZFBVQ1lHbWlOS21ZMzVEQVdtZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kawthar" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/kawthar.png" group-title="IRIB Channels",Kawthar
+https://sdw.telewebion.com/live/kawthar/playlist_dvr.m3u8?wmsAuthSign=c02499062cfc5f9615c3529bcada8543&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjIxIEFNJmhhc2hfdmFsdWU9NGZrN21WQjVuK0MzQ0tmVGJmbG5QZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amouzesh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/amouzesh.png" group-title="IRIB Channels",Amouzesh
+https://sdw.telewebion.com/live/amouzesh/playlist_dvr.m3u8?wmsAuthSign=2edd87c88834fc6979d37eaeab08cd22&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjIyIEFNJmhhc2hfdmFsdWU9aitzUVY1WnRHTXNtZkl2anVKTjRLZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/quran.png" group-title="IRIB Channels",Quran
+https://sdw.telewebion.com/live/quran/playlist_dvr.m3u8?wmsAuthSign=fc98e8db9c8524ad1a46364a07d1c988&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjI0IEFNJmhhc2hfdmFsdWU9MTBGQlgycDB5Q2VLVzJNL28wY09mdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salamat" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/salamat.png" group-title="IRIB Channels",Salamat
+https://sdw.telewebion.com/live/salamat/playlist_dvr.m3u8?wmsAuthSign=56e1007cadec55c82c2b7e239af9e7a0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjI1IEFNJmhhc2hfdmFsdWU9R1NjRkVnaDFjcEpKUU9SbU53bDdFUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jameh Jam" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/jjtv1.png" group-title="IRIB Channels",Jameh Jam
+https://sdw.telewebion.com/live/jjtv1/playlist_dvr.m3u8?wmsAuthSign=67794b4f78cc8874bd68896096e16613&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjI3IEFNJmhhc2hfdmFsdWU9QXR5bUpQcFJSNEk1eWdFTDhITVhnQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omid" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/omid.png" group-title="IRIB Channels",Omid
+https://sdw.telewebion.com/live/omid/playlist_dvr.m3u8?wmsAuthSign=3e1b0b0ed03daf135b61c53f4dacd2d8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjI4IEFNJmhhc2hfdmFsdWU9NDZEeHZQcGFaTVhqcXFmRTdmUU81dz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ofogh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ofogh.png" group-title="IRIB Channels",Ofogh
+https://sdw.telewebion.com/live/ofogh/playlist_dvr.m3u8?wmsAuthSign=43da295bf2c8cf6ee848e98fbc91d7d7&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjMwIEFNJmhhc2hfdmFsdWU9L05IVnNCeW9FUWY3c3lhZEFLYXN2Zz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shoma" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/shoma.png" group-title="IRIB Channels",Shoma
+https://sdw.telewebion.com/live/shoma/playlist_dvr.m3u8?wmsAuthSign=cf509f9f8f48126c10b677e69ca2f059&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjMxIEFNJmhhc2hfdmFsdWU9UGFRZmFTem9ML2F2VDREby91azJzZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Irankala" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/irankala.png" group-title="IRIB Channels",Irankala
+https://sdw.telewebion.com/live/irankala/playlist_dvr.m3u8?wmsAuthSign=a7deddb48d169f8f767ec6e0f419fb56&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjMyIEFNJmhhc2hfdmFsdWU9WmhjL1kzTUhuemFyVi92UWtpQVEwQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sepehr" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/sepehr.png" group-title="IRIB Channels",Sepehr
+https://sdw.telewebion.com/live/sepehr/playlist_dvr.m3u8?wmsAuthSign=7e735c80c03c3b9a6a1487842c6ad2f1&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjM0IEFNJmhhc2hfdmFsdWU9Y2RVSnAwVkVGVnFLaW56VWtPd2xLQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jam" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/jam.png" group-title="IRIB Channels",Jam
+https://sdw.telewebion.com/live/jam/playlist_dvr.m3u8?wmsAuthSign=46ca6e5c2bae0dfb659e775f7c79da2a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjM1IEFNJmhhc2hfdmFsdWU9bkRMR09FSTRxRWJjYkcyMFA4SjUzQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nama" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/nama.png" group-title="IRIB Channels",Nama
+https://sdw.telewebion.com/live/nama/playlist_dvr.m3u8?wmsAuthSign=7711d2afcebd2f7db7d725340a959ebe&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjM3IEFNJmhhc2hfdmFsdWU9bzRUbGhiSS84QkwwWTJyNm44SkRGdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Javaneh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/javaneh.png" group-title="IRIB Channels",Javaneh
+https://sdw.telewebion.com/live/javaneh/playlist_dvr.m3u8?wmsAuthSign=9412c90780b6d00b843bd220eb7bc245&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjM4IEFNJmhhc2hfdmFsdWU9RFM3MUVKQWFFSTV4SGYwenAxTFhndz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ara" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ara.png" group-title="IRIB Channels",Ara
+https://sdw.telewebion.com/live/ara/playlist_dvr.m3u8?wmsAuthSign=09bd6dcbbaa73ac5896d81b90f0745e2&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjM5IEFNJmhhc2hfdmFsdWU9QW1sOXdTQnRiRWx5SG1uMmxDWFh5dz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dena" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/dena.png" group-title="IRIB Channels",Dena
+https://sdw.telewebion.com/live/dena/playlist_dvr.m3u8?wmsAuthSign=5c3c7ba8f17fbce9d1fb906cbbce9b77&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQwIEFNJmhhc2hfdmFsdWU9b1VaOVFVcjFIaytzQnFBZXhOeTR6QT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nava" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/nava.png" group-title="IRIB Channels",Nava
+https://sdw.telewebion.com/live/nava/playlist_dvr.m3u8?wmsAuthSign=ea6f5369ba2dc3c1b7da40e8ab41e7c7&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQyIEFNJmhhc2hfdmFsdWU9RUNsSlozTlZrdDhIYmNqSHJRY3FTdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esfahan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/esfahan.png" group-title="IRIB Channels",Esfahan
+https://sdw.telewebion.com/live/esfahan/playlist_dvr.m3u8?wmsAuthSign=53de414b86b49bc26efd84d0d76b4b67&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQzIEFNJmhhc2hfdmFsdWU9TDJjazhGemlnMFE3cVROM2FyREhGUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alborz" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="IRIB Channels",Alborz
+https://sdw.telewebion.com/live/alborz/playlist_dvr.m3u8?wmsAuthSign=e63f4a16c35502810319d703ccef154b&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQ1IEFNJmhhc2hfdmFsdWU9Q0IrZk4xd2JMUi92bkZUQXRMOGtpUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ilam" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ilam.png" group-title="IRIB Channels",Ilam
+https://sdw.telewebion.com/live/ilam/playlist_dvr.m3u8?wmsAuthSign=1ed306702ec5e522e16cec8894083f8a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQ2IEFNJmhhc2hfdmFsdWU9TlNGaVQ2WXI1S2llNUFTQkFKR3lMQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azarbayjangharbi" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png" group-title="IRIB Channels",Azarbayjangharbi
+https://sdw.telewebion.com/live/azarbayjangharbi/playlist_dvr.m3u8?wmsAuthSign=d70c4c7002954dfa98056931fc3880af&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQ3IEFNJmhhc2hfdmFsdWU9SFVwTDRGRUZobFpMVVJ5ZWNrV2l1UT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jahanbin" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/jahanbin.png" group-title="IRIB Channels",Jahanbin
+https://sdw.telewebion.com/live/jahanbin/playlist_dvr.m3u8?wmsAuthSign=8de0d094cb22497408a5dc399bff759f&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjQ5IEFNJmhhc2hfdmFsdWU9S1E3ZCt5bGwwbGFMRURUYSs5dHYzdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bushehr" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/bushehr.png" group-title="IRIB Channels",Bushehr
+https://sdw.telewebion.com/live/bushehr/playlist_dvr.m3u8?wmsAuthSign=c29e7afdc17a0d2e040db94565116f53&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjUwIEFNJmhhc2hfdmFsdWU9aUlXWkJ4VEN4SEJzQjZXVkQyQzdWdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zagros" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/zagros.png" group-title="IRIB Channels",Zagros
+https://sdw.telewebion.com/live/zagros/playlist_dvr.m3u8?wmsAuthSign=56d818838a15d0a52f54c9fb0fb9bded&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjUxIEFNJmhhc2hfdmFsdWU9dG1pL1VYdTRka1ZkMVMvRXBUcnZmdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eshragh" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/eshragh.png" group-title="IRIB Channels",Eshragh
+https://sdw.telewebion.com/live/eshragh/playlist_dvr.m3u8?wmsAuthSign=d01c51a928a15ad120be8e98f23bc1fc&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjUzIEFNJmhhc2hfdmFsdWU9cVNPd2l5L1RMc0ZvajhZZ1hSbjBGdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khavaran" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="IRIB Channels",Khavaran
+https://sdw.telewebion.com/live/khavaran/playlist_dvr.m3u8?wmsAuthSign=dc5a4a7ccb3d8c85a493bcc7c7560885&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjU0IEFNJmhhc2hfdmFsdWU9WDY2ZnZSWnRoN1QzeVYxb0YyWWJHZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabz" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/sabz.png" group-title="IRIB Channels",Sabz
+https://sdw.telewebion.com/live/sabz/playlist_dvr.m3u8?wmsAuthSign=f78f5ab5892efc48f5dd60512106c557&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjU2IEFNJmhhc2hfdmFsdWU9Qnl5OUxpVStvOWJ6OUZhbU1lbUFtZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tabarestan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="IRIB Channels",Tabarestan
+https://sdw.telewebion.com/live/tabarestan/playlist_dvr.m3u8?wmsAuthSign=91e10086490a3669577ac8fc27414d94&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjU3IEFNJmhhc2hfdmFsdWU9K2h1UjRHbkRMa1JmZUhEYkJsNzg0QT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sina" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/sina.png" group-title="IRIB Channels",Sina
+https://sdw.telewebion.com/live/sina/playlist_dvr.m3u8?wmsAuthSign=86bad8141c8b2a5dd9fe3556cafd40f8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTozOjU4IEFNJmhhc2hfdmFsdWU9QldpRVpDbGh6OGZmQUpnSkpVenBlZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qazvin" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/qazvin.png" group-title="IRIB Channels",Qazvin
+https://sdw.telewebion.com/live/qazvin/playlist_dvr.m3u8?wmsAuthSign=b39b60a8930862476af2262f3bd9588a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjAgQU0maGFzaF92YWx1ZT1QbUp6WUF3b3FWVnZBQUNiT3ZaZURnPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hamoon" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/hamoon.png" group-title="IRIB Channels",Hamoon
+https://sdw.telewebion.com/live/hamoon/playlist_dvr.m3u8?wmsAuthSign=dfa19bbed1e3ab171ea011eaf23a8a78&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjEgQU0maGFzaF92YWx1ZT1OS3pqOWF5ZlFXbndCVTNRbUNNWE1RPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atrak" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/atrak.png" group-title="IRIB Channels",Atrak
+https://sdw.telewebion.com/live/atrak/playlist_dvr.m3u8?wmsAuthSign=23be076b0b3ee43513fa2e13d7076e15&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjIgQU0maGFzaF92YWx1ZT10YkNndWJwMHFXcHNmZ1pVVVFlRVFRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kerman" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="IRIB Channels",Kerman
+https://sdw.telewebion.com/live/kerman/playlist_dvr.m3u8?wmsAuthSign=8cdc72eb2021a3e384333b503176c5ff&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjQgQU0maGFzaF92YWx1ZT1KTHZBZEtkRTdlTWVXTkJIY0V6WTR3PT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taban" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/taban.png" group-title="IRIB Channels",Taban
+https://sdw.telewebion.com/live/taban/playlist_dvr.m3u8?wmsAuthSign=2c1b6437446ea146c00e11aee6cdbe7c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjUgQU0maGFzaF92YWx1ZT1QYWVtOE1manE5amVHbjlodGdzVG93PT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kish" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/kish.png" group-title="IRIB Channels",Kish
+https://sdw.telewebion.com/live/kish/playlist_dvr.m3u8?wmsAuthSign=39f2fe1d289c1c9543a685493a59791d&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjcgQU0maGFzaF92YWx1ZT1kMDVWV2Q1ejhQbWsvcUU2NWo3SWFRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/noor.png" group-title="IRIB Channels",Noor
+https://sdw.telewebion.com/live/noor/playlist_dvr.m3u8?wmsAuthSign=334d9596e2b3bbd616b05a9846eaa02a&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjggQU0maGFzaF92YWx1ZT1PWVBzcnQvemg0Rk1EUWY5NVprNFRnPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabalan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/sabalan.png" group-title="IRIB Channels",Sabalan
+https://sdw.telewebion.com/live/sabalan/playlist_dvr.m3u8?wmsAuthSign=0efd705243cb37efdf4ea08d91963c3b&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjkgQU0maGFzaF92YWx1ZT14d0p0TllEeHlLM3REd0xVOGJBMXFRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abadan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/abadan.png" group-title="IRIB Channels",Abadan
+https://sdw.telewebion.com/live/abadan/playlist_dvr.m3u8?wmsAuthSign=02a24b8218facdc94a796d5f63cbbc93&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjExIEFNJmhhc2hfdmFsdWU9anJxdGNMOVVyaDcrMkJsTlhiZzRqdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mahabad" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/mahabad.png" group-title="IRIB Channels",Mahabad
+https://sdw.telewebion.com/live/mahabad/playlist_dvr.m3u8?wmsAuthSign=568eb0104e7e567f49f1a6b2ad6dfb83&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjEyIEFNJmhhc2hfdmFsdWU9cS9NOURKOS9xb2FwNzBjV01RaEZoUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sahand" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/sahand.png" group-title="IRIB Channels",Sahand
+https://sdw.telewebion.com/live/sahand/playlist_dvr.m3u8?wmsAuthSign=6c315b83bffb6edc5bed90cf209ca328&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjE0IEFNJmhhc2hfdmFsdWU9b2E0SHBwek5BaXZsMHFJWUZnTlUyZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fars" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/fars.png" group-title="IRIB Channels",Fars
+https://sdw.telewebion.com/live/fars/playlist_dvr.m3u8?wmsAuthSign=6b3b74b3a93a8462ca094afd2a530d78&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjE1IEFNJmhhc2hfdmFsdWU9N0NKbllQb0F4TUcwb2tlOUhnMlIwdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khoozestan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/khoozestan.png" group-title="IRIB Channels",Khoozestan
+https://sdw.telewebion.com/live/khoozestan/playlist_dvr.m3u8?wmsAuthSign=36c0cb110197c74504f3ad09b3c122bc&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjE3IEFNJmhhc2hfdmFsdWU9OEM3bWs1cnBEWktpRG1UQ2NXcUxHZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khorasanrazavi" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/khorasanrazavi.png" group-title="IRIB Channels",Khorasanrazavi
+https://sdw.telewebion.com/live/khorasanrazavi/playlist_dvr.m3u8?wmsAuthSign=f668d98a9fddad2487550bfb096882c8&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjE4IEFNJmhhc2hfdmFsdWU9elpQUjU0dG9QclpQNHhRTGVUMlpDdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kordestan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/kordestan.png" group-title="IRIB Channels",Kordestan
+https://sdw.telewebion.com/live/kordestan/playlist_dvr.m3u8?wmsAuthSign=1b5db936d0df225d9c0a41aac0039c8f&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjIwIEFNJmhhc2hfdmFsdWU9U1lJRnZwVk50a3VGYlhVUCt4a3k3Zz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baran" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/baran.png" group-title="IRIB Channels",Baran
+https://sdw.telewebion.com/live/baran/playlist_dvr.m3u8?wmsAuthSign=a11fefb6686568455b1f7b38e18fd083&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjIxIEFNJmhhc2hfdmFsdWU9cy9UcUlzUFVFT2srVHl0MTN1UVlEUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Semnan" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/semnan.png" group-title="IRIB Channels",Semnan
+https://sdw.telewebion.com/live/semnan/playlist_dvr.m3u8?wmsAuthSign=4d8b6382856768245ea9903633ec90c0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjIyIEFNJmhhc2hfdmFsdWU9UjB3U2Q2MjhUa0RZOGVIRDQwMXNtZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aftab" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/aftab.png" group-title="IRIB Channels",Aftab
+https://sdw.telewebion.com/live/aftab/playlist_dvr.m3u8?wmsAuthSign=6254c16388d84da7c76397f659d43916&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjI0IEFNJmhhc2hfdmFsdWU9NlBaMEFEeXMwb3RGemFtL1dOR0JyZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khalijefars" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/khalijefars.png" group-title="IRIB Channels",Khalijefars
+https://sdw.telewebion.com/live/khalijefars/playlist_dvr.m3u8?wmsAuthSign=be6eb32c24cf157e8a9401efad0d4e32&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjI2IEFNJmhhc2hfdmFsdWU9ZmJTaFQvczlTempSc2dIeVdjOG8yUT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflak" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/aflak.png" group-title="IRIB Channels",Aflak
+https://sdw.telewebion.com/live/aflak/playlist_dvr.m3u8?wmsAuthSign=6df9c2d1d27fc8bb44d2ac9ac73d53a4&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjI3IEFNJmhhc2hfdmFsdWU9RDdkRTB2cXdRc2N1Z041WlVXQUthdz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilmar" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilmAr.png" group-title="IRIB Channels",Ifilmar
+https://sdw.telewebion.com/live/ifilmAr/playlist_dvr.m3u8?wmsAuthSign=1acbd47f0a31efb3dd02d146fbde05c0&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzI4LzIwMjEgMTo0OjI4IEFNJmhhc2hfdmFsdWU9ZzhKZDBFVWt6RStZWUVJUDJvY2VMZz09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mostanad Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/mostanad.png" group-title="IRIB Channels",Mostanad Jadoo
+http://cds.c7a2t5h4.hwcdn.net/app/921003/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ifilm Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ifilm.png" group-title="IRIB Channels",ifilm Jadoo
+http://cds.c7a2t5h4.hwcdn.net/app/53027.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 3 Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" group-title="IRIB Channels",TV 3 Jadoo
+http://cds.c7a2t5h4.hwcdn.net/app/10035.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Varzesh Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/varzesh.png" group-title="IRIB Channels",Varzesh Jadoo
+http://cds.c7a2t5h4.hwcdn.net/app/iribverzish.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1 Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" group-title="IRIB Channels",TV 1 Jadoo
+http://cds.c7a2t5h4.hwcdn.net/app/85300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 1" tvg-logo="" group-title="Khareji",MBC 1
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="Khareji",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 4" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/master/logo/MBC%204.png" group-title="Khareji",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Khareji",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="Khareji",MBC Action
+https://shls-live-event1-prod-dub.shahid.net/out/v1/8b953cc72af04ef681cd7ec8d999f68b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Khareji",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="Khareji",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Khareji",MBC Drama Plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Iraq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="Khareji",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Mesr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="Khareji",MBC Mesr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Mesr 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/MBCMasr2.png/revision/latest/scale-to-width-down/250?cb=20191207102708" group-title="Khareji",MBC Mesr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power TV" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" group-title="Khareji",Power TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
