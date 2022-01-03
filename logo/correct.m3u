@@ -114,7 +114,7 @@ http://cds.c7a2t5h4.hwcdn.net/app/iribverzish.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1 Jadoo" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" group-title="IRIB Channels",TV 1 Jadoo
 http://cds.c7a2t5h4.hwcdn.net/app/85300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ifilm FHD" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ifilm.png" group-title="IRIB FHD",ifilm FHD
-https://sdw.telewebion.com/live/ifilm/playlist_dvr.m3u8?wmsAuthSign=083d49aa845da0eaa02c657bec0d569c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMS8yMDIyIDQ6NDk6NTcgQU0maGFzaF92YWx1ZT1KeU1NWldhblF5dGttYll5SXdiNzRBPT0mdmFsaWRtaW51dGVzPTYwMDA=
+https://sdw.telewebion.com/live/ifilm/playlist_dvr.m3u8 | User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&wmsAuthSign=083d49aa845da0eaa02c657bec0d569c&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMS8yMDIyIDQ6NDk6NTcgQU0maGFzaF92YWx1ZT1KeU1NWldhblF5dGttYll5SXdiNzRBPT0mdmFsaWRtaW51dGVzPTYwMDA=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IRINN FHD" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn.png" group-title="IRIB FHD",IRINN FHD
 https://sdw.telewebion.com/live/irinn/playlist_dvr.m3u8?wmsAuthSign=c8cbb117d2653d4b41ab9efe78229506&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMS8yMDIyIDQ6NDY6MzEgQU0maGFzaF92YWx1ZT1PVFZ2YnNSZzBxenFVbElJQjlraU5RPT0mdmFsaWRtaW51dGVzPTYwMDA=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mostanad FHD" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/mostanad.png" group-title="IRIB FHD",Mostanad FHD
