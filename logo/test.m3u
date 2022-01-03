@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilmar" tvg-logo="https://static1.telewebion.com/web/images/../content_images/channel_images/thumbs/new/240/v4/ifilmAr.png" group-title="IRIB Channels", Ifilmar
+https://sdw.telewebion.com/live/ifilmAr/playlist_dvr.m3u8 | wmsAuthSign=4ed72530ea5f5bee44508a4fe1b3d159&ot=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMy8yMDIyIDI6NTc6MTMgQU0maGFzaF92YWx1ZT1LM2hBRHkyZlI1YlpKVUNEMk55bm1BPT0mdmFsaWRtaW51dGVzPTYwMDA=
