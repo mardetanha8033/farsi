@@ -1,0 +1,85 @@
+{
+"id": 0,
+"details": {
+"list": [
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 01",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S01_E01_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 02",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S01_E02_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 03",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S01_E03_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 04",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S02_E01_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 05",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S02_E02_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 06",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S02_E03_1080p.mp4"
+},
+  {
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 07",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S03_E01_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 08",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S03_E02_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 09",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S03_E03_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 10",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S04_E01_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 11",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S04_E02_1080p.mp4"
+},
+{
+"poster": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia%20pos.jpeg",
+"fanart": "https://raw.githubusercontent.com/mardetanha8033/farsi/master/json/Mafia1.jpeg",
+"name": "Episode 12",
+"url": "https://dlm.bni01.online/Series_irani/S/Shabhaye_Mafia/Shabhaye_Mafia_S04_E03_1080p.mp4"
+}
+],
+"pageNumber": 1,
+"pageSize": 35,
+"sortBy": "latest",
+"resultsCount": 556
+},
+"status": "1",
+"errors": []
+}
