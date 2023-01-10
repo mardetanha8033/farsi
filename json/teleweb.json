@@ -1,0 +1,84 @@
+{
+"id": 0,
+"details": {
+"list": [
+{
+"poster": "https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default",
+"name": "TV1",
+"url": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8"
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 02",
+"url": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 03",
+"url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8"
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 04",
+"url": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8"
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 05",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 06",
+"url": ""
+},
+  {
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 07",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 08",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 09",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 10",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 11",
+"url": ""
+},
+{
+"poster": "https://static.cdn.asset.filimo.com/flmt/mov_85441_11882-m.jpg",
+"fanart": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_100776_147.jpg",
+"name": "Episode 12",
+"url": ""
+}
+],
+"pageNumber": 1,
+"pageSize": 35,
+"sortBy": "latest",
+"resultsCount": 556
+},
+"status": "1",
+"errors": []
+}
