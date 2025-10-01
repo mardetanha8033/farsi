@@ -68,8 +68,8 @@ https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ch22" tvg-name="Radio Javan" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/refs/heads/master/logo/radiojavan.png" group-title="Music", Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ch23" tvg-name="Sports 3" tvg-logo="https://yourlogo.com/sports3.png" group-title="Sports",Sports 3
-http://yourserver.com:8080/live/username/password/23.ts
+#EXTINF:-1 tvg-id="ch23" tvg-name="Persiana Nostalgia" tvg-logo="https://www.persianagroup.tv/logo-pg-light.png" group-title="Music",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
 
 # --- Movies Group (24-26) ---
 #EXTINF:-1 tvg-id="ch24" tvg-name="Movie 1" tvg-logo="https://yourlogo.com/movie1.png" group-title="Movies",Movie 1
