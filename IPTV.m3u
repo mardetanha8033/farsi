@@ -55,8 +55,8 @@ http://yourserver.com:8080/live/username/password/17.ts
 #EXTINF:-1 tvg-id="ch18" tvg-name="Telewebion 18" tvg-logo="https://yourlogo.com/tw18.png" group-title="Telewebion",Telewebion 18
 http://yourserver.com:8080/live/username/password/18.ts
 
-#EXTINF:-1 tvg-id="ch19" tvg-name="Telewebion 19" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default" group-title="Telewebion",Telewebion 19
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ch19" tvg-name="Telewebion 19" tvg-logo="https://yourlogo.com/tw18.png" group-title="Telewebion",Telewebion 19
+http://yourserver.com:8080/live/username/password/20.ts
 
 #EXTINF:-1 tvg-id="ch20" tvg-name="Telewebion 20" tvg-logo="https://yourlogo.com/tw20.png" group-title="Telewebion",Telewebion 20
 http://yourserver.com:8080/live/username/password/20.ts
@@ -85,7 +85,7 @@ http://yourserver.com:8080/live/username/password/25.ts
 http://yourserver.com:8080/live/username/password/26.ts
 
 # --- International Group (27-30) ---
-#EXTINF:-1 tvg-id="ch27" tvg-name="Iran International" tvg-logo="https://www.iranintl.com/images/ii/ii-logo-fa.svg" group-title="News",Iran International
+#EXTINF:-1 tvg-id="ch27" tvg-name="Iran International" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/refs/heads/master/logo/ii-logo-fa.png" group-title="News",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
 #EXTINF:-1 tvg-id="ch28" tvg-name="International 2" tvg-logo="https://yourlogo.com/int2.png" group-title="International",International 2
