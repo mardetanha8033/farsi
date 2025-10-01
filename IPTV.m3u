@@ -61,12 +61,12 @@ https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ch20" tvg-name="Telewebion 20" tvg-logo="https://yourlogo.com/tw20.png" group-title="Telewebion",Telewebion 20
 http://yourserver.com:8080/live/username/password/20.ts
 
-# --- Sports Group (21-23) ---
-#EXTINF:-1 tvg-id="ch21" tvg-name="Sports 1" tvg-logo="https://yourlogo.com/sports1.png" group-title="Sports",Sports 1
-http://yourserver.com:8080/live/username/password/21.ts
+# --- Music Group (21-23) ---
+#EXTINF:-1 tvg-id="ch21" tvg-name="Avang Music" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/refs/heads/master/logo/avang%20logo.png" group-title="Music",Avang Music
+https://hls.avang.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="ch22" tvg-name="Sports 2" tvg-logo="https://yourlogo.com/sports2.png" group-title="Sports",Sports 2
-http://yourserver.com:8080/live/username/password/22.ts
+#EXTINF:-1 tvg-id="ch22" tvg-name="Radio Javan" tvg-logo="https://raw.githubusercontent.com/mardetanha8033/farsi/refs/heads/master/logo/radiojavan.png" group-title="Music", Radio Javan
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ch23" tvg-name="Sports 3" tvg-logo="https://yourlogo.com/sports3.png" group-title="Sports",Sports 3
 http://yourserver.com:8080/live/username/password/23.ts
