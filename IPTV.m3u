@@ -85,8 +85,8 @@ http://yourserver.com:8080/live/username/password/25.ts
 http://yourserver.com:8080/live/username/password/26.ts
 
 # --- International Group (27-30) ---
-#EXTINF:-1 tvg-id="ch27" tvg-name="International 1" tvg-logo="https://yourlogo.com/int1.png" group-title="International",International 1
-http://yourserver.com:8080/live/username/password/27.ts
+#EXTINF:-1 tvg-id="ch27" tvg-name="Iran International" tvg-logo="https://www.iranintl.com/images/ii/ii-logo-fa.svg" group-title="News",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
 #EXTINF:-1 tvg-id="ch28" tvg-name="International 2" tvg-logo="https://yourlogo.com/int2.png" group-title="International",International 2
 http://yourserver.com:8080/live/username/password/28.ts
