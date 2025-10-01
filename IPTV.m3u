@@ -71,6 +71,9 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ch23" tvg-name="Persiana Nostalgia" tvg-logo="https://www.persianagroup.tv/logo-pg-light.png" group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="ch23" tvg-name="Navahang" tvg-logo="https://www.persianagroup.tv/logo-pg-light.png" group-title="Music",Navahang
+https://hls.navahang.live/hls/stream.m3u8
+
 # --- Movies Group (24-26) ---
 #EXTINF:-1 tvg-id="ch24" tvg-name="Movie 1" tvg-logo="https://yourlogo.com/movie1.png" group-title="Movies",Movie 1
 http://yourserver.com:8080/live/username/password/24.ts
