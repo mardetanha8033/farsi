@@ -1,41 +1,41 @@
 #EXTM3U
 
 # --- Telewebion Group (First 20) ---
-#EXTINF:-1 tvg-id="ch1" tvg-name="TV 1" tvg-logo="https://static.telewebion.com/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default" group-title="Telewebion",TV 1
-https://ncdn.telewebion.com/tv1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch1" tvg-name="TV 1" tvg-logo="https://static.telewebion.ir/channelsLogo/ZjMzNmU2NTJlZTIyZjU4ZjliMWI2ZmI3NjBjOGRkMTFmODA0ZWUzZGI4ODE2NmFhMmQyNDBkYjFiMDY0NzUzMw/default" group-title="Telewebion",TV 1
+https://ncdn.telewebion.ir/tv1/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch2" tvg-name="TV 2" tvg-logo="https://static.telewebion.com/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default" group-title="Telewebion",TV 2
-https://ncdn.telewebion.com/tv2/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch2" tvg-name="TV 2" tvg-logo="https://static.telewebion.ir/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default" group-title="Telewebion",TV 2
+https://ncdn.telewebion.ir/tv2/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch3" tvg-name="TV 3" tvg-logo="https://static.telewebion.com/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default" group-title="Telewebion",TV 3
-https://ncdn.telewebion.com/tv3/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch3" tvg-name="TV 3" tvg-logo="https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default" group-title="Telewebion",TV 3
+https://ncdn.telewebion.ir/tv3/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch4" tvg-name="Nasim" tvg-logo="https://static.telewebion.com/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default" group-title="Telewebion",Nasim
-https://ncdn.telewebion.com/nasim/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch4" tvg-name="Nasim" tvg-logo="https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default" group-title="Telewebion",Nasim
+https://ncdn.telewebion.ir/nasim/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch5" tvg-name="Irinn" tvg-logo="https://static.telewebion.com/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default" group-title="Telewebion",Irinn
-https://ncdn.telewebion.com/irinn/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch5" tvg-name="Irinn" tvg-logo="https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default" group-title="Telewebion",Irinn
+https://ncdn.telewebion.ir/irinn/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch6" tvg-name="Varzesh" tvg-logo="https://static.telewebion.com/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default" group-title="Telewebion",Varzesh
-https://ncdn.telewebion.com/varzesh/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch6" tvg-name="Varzesh" tvg-logo="https://static.telewebion.ir/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default" group-title="Telewebion",Varzesh
+https://ncdn.telewebion.ir/varzesh/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch7" tvg-name="Tamash" tvg-logo="https://static.telewebion.com/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default" group-title="Telewebion",Tamasha
-https://ncdn.telewebion.com/hdtest/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch7" tvg-name="Tamash" tvg-logo="https://static.telewebion.ir/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default" group-title="Telewebion",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch8" tvg-name="ifilm" tvg-logo="https://static.telewebion.com/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default" group-title="Telewebion",ifilm
-https://ncdn.telewebion.com/ifilm/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch8" tvg-name="ifilm" tvg-logo="https://static.telewebion.ir/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default" group-title="Telewebion",ifilm
+https://ncdn.telewebion.ir/ifilm/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch9" tvg-name="Namayesh" tvg-logo="https://static.telewebion.com/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default" group-title="Telewebion", Namayesh
-https://ncdn.telewebion.com/namayesh/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch9" tvg-name="Namayesh" tvg-logo="https://static.telewebion.ir/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default" group-title="Telewebion", Namayesh
+https://ncdn.telewebion.ir/namayesh/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch10" tvg-name="Mostanad" tvg-logo="https://static.telewebion.com/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default" group-title="Telewebion",Mostanad
-https://ncdn.telewebion.com/mostanad/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch10" tvg-name="Mostanad" tvg-logo="https://static.telewebion.ir/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default" group-title="Telewebion",Mostanad
+https://ncdn.telewebion.ir/mostanad/live/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch11" tvg-name="Faratar" tvg-logo="https://static.telewebion.com/channelsLogo/6495b89d-0463-4544-9f09-0321b26ad116/default" group-title="Telewebion",Faratar
-https://ncdn.telewebion.com/faratar/live/2160p/index.m3u8
+#EXTINF:-1 tvg-id="ch11" tvg-name="Faratar" tvg-logo="https://static.telewebion.ir/channelsLogo/6495b89d-0463-4544-9f09-0321b26ad116/default" group-title="Telewebion",Faratar
+https://ncdn.telewebion.ir/faratar/live/2160p/index.m3u8
 
-#EXTINF:-1 tvg-id="ch12" tvg-name="Khorasan Razavi" tvg-logo="https://static.telewebion.com/channelsLogo/YzExZDIzZDJmOTQyMDMzYTdmMThiY2U2YTk5ZTA1NjBkOTc4ZjNiMGVhNDQ4YjI0YTkxOTE4NmQyYzQ1NjRlYw/default" group-title="Telewebion", Khorasan Razavi
-https://ncdn.telewebion.com/khorasanrazavi/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ch12" tvg-name="Khorasan Razavi" tvg-logo="https://static.telewebion.ir/channelsLogo/YzExZDIzZDJmOTQyMDMzYTdmMThiY2U2YTk5ZTA1NjBkOTc4ZjNiMGVhNDQ4YjI0YTkxOTE4NmQyYzQ1NjRlYw/default" group-title="Telewebion", Khorasan Razavi
+https://ncdn.telewebion.ir/khorasanrazavi/live/1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="ch13" tvg-name="Telewebion 13" tvg-logo="https://yourlogo.com/tw13.png" group-title="Telewebion",Telewebion 13
 http://yourserver.com:8080/live/username/password/13.ts
